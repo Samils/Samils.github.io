@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Samils</title>
 </head>
 <body id="Samils">
 	<div class="page">
